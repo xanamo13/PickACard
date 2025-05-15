@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">finalDraft</string>
+    <string name="pizza">Pizza</string>
+    <string name="chinese">Chinese Food</string>
+    <string name="mexican">Mexican Food</string>
+    <string name="thai">Thai Food</string>
+    <string name="japanese">Japanese Food</string>
+</resources>
