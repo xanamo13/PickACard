@@ -13,5 +13,8 @@ It is really just meant to be a bordeom buster app. It isn't meant to be anythin
 Overall, this was a fun experience and I would love to work with Kotlin and JetPack Compose more in the future!
 
 
-* ---- Ximena Anahi Morales ---- *
-* xamorales19@gmail.com
+
+
+
+~ Ximena Anahi Morales
+  xamorales19@gmail.com
